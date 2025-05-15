@@ -31,6 +31,7 @@ Mobile-WebVuln/
 ├── tools/              # Scripts and helper tools
 ├── PoC/                # Proof-of-Concept examples
 └── README.md           # This file
+```
 ---
 🧪 Covered Vulnerability Categories
 ✅ Injection Attacks (SQLi, XSS, Command Injection)
